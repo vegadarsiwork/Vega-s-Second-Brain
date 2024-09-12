@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a9d80c56342136be","x":-680,"y":-340,"width":400,"height":640,"type":"file","file":"3 - Tags/NIAT.md"},
+		{"id":"bf0dd7a9c38be7b1","x":-160,"y":-480,"width":250,"height":60,"type":"text","text":"Vega's Zettelkasten"},
+		{"id":"85c75afa1a4d7a5d","x":-280,"y":-340,"width":400,"height":680,"type":"file","file":"4 - Indexes/Definitions.md"}
+	],
+	"edges":[
+		{"id":"488179e654dd1868","fromNode":"bf0dd7a9c38be7b1","fromSide":"bottom","toNode":"a9d80c56342136be","toSide":"top"},
+		{"id":"22a82a9a6f6a4fd8","fromNode":"bf0dd7a9c38be7b1","fromSide":"bottom","toNode":"85c75afa1a4d7a5d","toSide":"top"}
+	]
+}
