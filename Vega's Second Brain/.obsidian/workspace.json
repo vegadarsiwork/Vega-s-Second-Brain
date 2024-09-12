@@ -11,12 +11,8 @@
             "id": "39c084d99c8f306b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/IMPORTANT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Tags/IMPORTANT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Tags/IMPORTANT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Tags/IMPORTANT.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,6 +141,7 @@
   },
   "active": "39c084d99c8f306b",
   "lastOpenFiles": [
+    "RoughNotes/IMPORTANT.md",
     "RoughNotes/wqeoiudhwqoihd.md",
     "RoughNotes/Rough.md",
     "RoughNotes/with that person.md",
@@ -173,7 +166,6 @@
     "6 - Main Notes/Introduction to Git.md",
     "6 - Main Notes/Introduction to Programming - Python.md",
     "6 - Main Notes/Introduction to Programming -1.md",
-    "3 - Tags/IMPORTANT.md",
     "3 - Tags/Python.md",
     "6 - Main Notes/rog nigga.md",
     "7 - Canvas/Untitled.canvas",
