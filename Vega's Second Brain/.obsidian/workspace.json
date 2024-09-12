@@ -11,12 +11,8 @@
             "id": "39c084d99c8f306b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Rough Notes/wqeoiudhwqoihd.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,16 +141,19 @@
   },
   "active": "39c084d99c8f306b",
   "lastOpenFiles": [
+    "3 - Tags/NIAT.md",
+    "3 - Tags/Bootstrap.md",
+    "6 - Main Notes/Introduction to Bootstrap.md",
+    "6 - Main Notes/Introduction to Backend.md",
+    "1 - Rough Notes/wqeoiudhwqoihd.md",
     "1 - Rough Notes/Rough.md",
     "6 - Main Notes/Conditional Statements.md",
     "6 - Main Notes/Python - Logical Operators.md",
     "6 - Main Notes/Python - Relational Operators.md",
     "6 - Main Notes/Python - Sequence of Instructions.md",
     "6 - Main Notes/Python - Type Conversion and Slicing.md",
-    "3 - Tags/NIAT.md",
     "6 - Main Notes/Developing an Application.md",
     "6 - Main Notes/Build your own static website using Gen AI.md",
-    "6 - Main Notes/Introduction to Backend.md",
     "6 - Main Notes/Introduction to Command Line (Linux WSL 2).md",
     "6 - Main Notes/Introduction to CSS.md",
     "6 - Main Notes/Introduction to Git.md",
@@ -171,13 +166,10 @@
     "3 - Tags/Frontend.md",
     "6 - Main Notes/Introduction to Number System 2 - Power Cycles.md",
     "6 - Main Notes/Introduction to Command Line.md",
-    "1 - Rough Notes/wqeoiudhwqoihd.md",
     "7 - Canvas/Untitled.canvas",
     "6 - Main Notes/Untitled.md",
-    "1 - Rough Notes/answers.md",
     "7 - Canvas",
     "Untitled.canvas",
-    "1 - Rough Notes/with that person.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",

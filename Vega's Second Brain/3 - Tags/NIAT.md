@@ -44,6 +44,8 @@
 
 [[Build your own static website using Gen AI]]
 
+[[Introduction to Bootstrap]]
+
 
 # Important Tags
 
