@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Conditional Statements.md",
+                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Conditional Statements.md",
+                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Conditional Statements.md",
+                "file": "1 - Rough Notes/wqeoiudhwqoihd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Conditional Statements.md"
+                "file": "1 - Rough Notes/wqeoiudhwqoihd.md"
               }
             }
           }
@@ -143,17 +143,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "39c084d99c8f306b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Rough.md",
+    "6 - Main Notes/Conditional Statements.md",
     "6 - Main Notes/Python - Logical Operators.md",
     "6 - Main Notes/Python - Relational Operators.md",
     "6 - Main Notes/Python - Sequence of Instructions.md",
     "6 - Main Notes/Python - Type Conversion and Slicing.md",
     "3 - Tags/NIAT.md",
-    "6 - Main Notes/Conditional Statements.md",
     "6 - Main Notes/Developing an Application.md",
     "6 - Main Notes/Build your own static website using Gen AI.md",
     "6 - Main Notes/Introduction to Backend.md",
@@ -176,7 +178,6 @@
     "7 - Canvas",
     "Untitled.canvas",
     "1 - Rough Notes/with that person.md",
-    "5 - Templates/Main Note.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
