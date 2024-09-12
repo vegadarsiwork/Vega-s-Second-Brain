@@ -1,0 +1,11 @@
+# Workspace Cache 
+.obsidian/workspace.json 
+.obsidian/workspace-mobile.json 
+
+# Exclude Plugins 
+.obsidian/plugins/* 
+.obsidian/community-plugins.json 
+
+# OS Settings and Cache 
+.trash/ 
+.DS_Store
