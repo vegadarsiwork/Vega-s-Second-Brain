@@ -39,7 +39,7 @@ ________________________________________________________________________
     `.button {   width: 138px;   height: 36px;   border-radius: 10px; } .button-green {   background-color: #8cc63f; }`
     
 
-# 3. **Bootstrap Overview**
+# 3. Bootstrap Overview
 
 - Bootstrap is a collection of **predefined HTML, CSS, and JavaScript components** like buttons, cards, and more.
 
@@ -81,8 +81,6 @@ ________________________________________________________________________
 - Use Bootstrap's predefined text color classes:
     
     html
-    
-    Copy code
     
     `<p class="text-primary">Tourism</p> <p class="text-success">Tourism</p>`
     
