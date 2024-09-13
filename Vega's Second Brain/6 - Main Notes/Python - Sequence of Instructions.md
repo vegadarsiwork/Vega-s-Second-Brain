@@ -63,7 +63,7 @@ To fix it, convert the integer to a string:
 
 `len()` returns the number of characters in a given string
 
-```
+```python
 username = "Rahul"
 length = len(username)
 print (length)

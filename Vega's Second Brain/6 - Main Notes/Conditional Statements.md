@@ -23,7 +23,7 @@ ________________________________________________________________________
 
 **Examples:**
 
-```
+```python
 2 < 3  # True 
 a == b  # False (if a and b are not equal) 
 True    # This is already a boolean value
@@ -51,7 +51,7 @@ True    # This is already a boolean value
 
 ### Incorrect Example:
 
-```
+```python
 if 2 < 3:     
 	print("Two is less than three")       
 		print("This line has incorrect indentation")  # Wrong
@@ -59,7 +59,7 @@ if 2 < 3:
 
 ### Correct Example:
 
-```
+```python
 if 2 < 3:   
 	print("Two is less than three") 
 	print("This line has correct indentation")  # Correct
@@ -73,7 +73,7 @@ if 2 < 3:
 
 ### Syntax:
 
-```
+```python
 if condition:    
 	# Block of code if condition is True
 else:    
@@ -82,7 +82,7 @@ else:
 
 ### Example:
 
-```
+```python
 age = 18  
 if age >= 18:     
 	print("You are an adult.") 
@@ -104,14 +104,15 @@ else:
     
     **Incorrect Example:**
     
-	    if age >= 18:   
+	```python
+	if age >= 18:   
 	      print("You are an adult.")  
 	      
 	      # This comment or any code here would cause an error 
 	      
 	    else:    
 			print("You are not an adult.")
-	    
+	```
     
 2. **`else` Cannot Exist Without `if`:**
     
@@ -119,7 +120,7 @@ else:
     
     **Incorrect Example:**
     
-	```
+	```python
 	else:     print("You are not an adult.") 
 	     # Error: missing an `if` block
 	```  
@@ -132,7 +133,7 @@ else:
 
 ### Example:
 
-```
+```python
 age = 16 
 if age >= 18:    
 	print("You are an adult.") 
